@@ -16,7 +16,7 @@ public class HelloMonkies{
 		
 		System.out.println(powerLevel(person));
 		
-		System.out.println("Dang");
+	
 	}
 
 
