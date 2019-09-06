@@ -15,6 +15,8 @@ public class HelloMonkies{
 		System.out.println("What's " + person + "'s power level?");
 		
 		System.out.println(powerLevel(person));
+		
+		System.out.println("Dang");
 	}
 
 
